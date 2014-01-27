@@ -1,0 +1,3 @@
+# Terms of Service
+
+Terms of the service goes here...
