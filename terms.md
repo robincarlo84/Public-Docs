@@ -289,4 +289,4 @@ a) Customer support contact details are available form within the logged-in webs
 
 ## 27. Privacy
 
-Please see the [Privacy Policy](http://junkey.com/demo/profile.html).
+Please see the [Privacy Policy](http://junkey.com/privacy).
