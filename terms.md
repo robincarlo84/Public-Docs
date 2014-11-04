@@ -7,10 +7,14 @@
 
 ## 1. Scope
  a) These terms of use set forth legally binding terms and conditions governing your use of the website, Junkey.com, which is provided by Junkey LTD (Junkey). By using or browsing the site you agree to be bound by this agreement.
+
 ## 2.Definitions
+
  a) 'Website' refers to the online web service provided by Junkey at www.junkey.com or any other designated website, mobile website or mobile app.
+
  b) 'Service' refers to the website and its features and the customer support services Junkey provides to users.
  c) 'User' refers to any person using or accessing the service.
+ 
  d) 'Item' refers to an item owned by a Junkey user. Users are able to upload image representations of their item, and text descriptions.
  e) 'Buyer' refers to a Junkey user who attempts to buy an item from another Junkey user, referred to as a 'seller'.
  f) 'Purchase agreement' describes the binding agreement between a buyer and seller to buy and sell an item, respectively.
