@@ -45,7 +45,9 @@
  
  q) 'Purchase funds' refers to the final sale amount funds which paid by the buyer.
  
- ## 3. The Service
+ r) 'Delivery deadline' refers to the deadline by which a seller must have completed delivery. Failure to deliver within this timeframe can annuls the purchase agreement and cause Junkey to refund the purchase funds to the buyer.
+ 
+## 3. The Service
 
 a) Junkey is a marketplace for collectors, allowing users to list and buy and sell items between each other.
 
@@ -288,6 +290,3 @@ a) Customer support contact details are available form within the logged-in webs
 ## 27. Privacy
 
 Please see the [Privacy Policy](http://junkey.com/demo/profile.html).
- 
- 
- r) 'Delivery deadline' refers to the deadline by which a seller must have completed delivery. Failure to deliver within this timeframe can annuls the purchase agreement and cause Junkey to refund the purchase funds to the buyer.
