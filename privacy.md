@@ -122,7 +122,9 @@ a) Following a request in writing from you, we will close your account and make 
 
 a) Your Junkey account is protected by a password, which you set. It is important that you choose your password carefully and do not share it with any third party. You should also log out of the website each time you have finished using it.
 
-Junkey uses secure socket technology for encryption, however no method of transmission over the internet is 100% secure. Junkey endeavours to maintain the highest b) level of security in relation to your usage of the service and your data.
+Junkey uses secure socket technology for encryption, however no method of transmission over the internet is 100% secure. Junkey endeavours to maintain the highest 
+
+b) level of security in relation to your usage of the service and your data.
 
 ## 16. Data retention
 
