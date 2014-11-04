@@ -6,16 +6,10 @@
 (maintained at <https://github.com/Junkey/Public-Docs>)
 
   
-  <ol>
-    <li>
-    Scope
-      <ol>
-        <li>
-        These terms of use set forth legally binding terms and conditions governing your use of the website, 
-        Junkey.com, which is provided by Junkey LTD (Junkey). By using or browsing the site you agree to be bound by this agreement.
-        </li>
-      </ol>
-    </li>
+
+  #   1. Scope
+      These terms of use set forth legally binding terms and conditions governing your use of the website, Junkey.com, which is provided by Junkey LTD (Junkey). By using or browsing the site you agree to be bound by this agreement.
+
     
     
     <li>
