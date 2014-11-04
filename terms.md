@@ -7,18 +7,15 @@
 
   
 
-  #   1. Scope
+  # 1. Scope
       These terms of use set forth legally binding terms and conditions governing your use of the website, Junkey.com, which is provided by Junkey LTD (Junkey). By using or browsing the site you agree to be bound by this agreement.
 
     
     
-    <li>
-      Definitions
-      <ol>
-        <li>
+    # Definitions
+      
           'Website' refers to the online web service provided by Junkey at www.junkey.com or any other designated website, mobile website or mobile app.
-        </li>
-        
+
         <li>
           'Service' refers to the website and its features and the customer support services Junkey provides to users.
         </li>
