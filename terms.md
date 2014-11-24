@@ -21,7 +21,7 @@
 
  e) 'Buyer' refers to a Junkey user who attempts to buy an item from another Junkey user, referred to as a 'seller'.
 
- f) 'Purchase agreement' describes the binding agreement between a buyer and seller to buy and sell an item, respectively.
+ f) 'Sale agreement' describes the binding agreement between a buyer and seller to buy and sell an item, respectively.
 
  g) 'Trust Points' refer to a system operated by Junkey to score a users' history on the site.
 
