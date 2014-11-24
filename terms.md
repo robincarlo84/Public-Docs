@@ -31,17 +31,17 @@
 
  j) 'Make offer item' refers to an item for which no 'buy now' price has been set, and which is subject to a buyer-initiated offer.
 
- k) 'Buy now item' refers to an item which have been designated as immediately purchasable at a set price.
+ k) 'Buy now item' refers to an item which has been designated as immediately purchasable at a set price.
  
  l) 'Final sale amount' refers to the total amount paid for an item. It is inclusive of Junkey's fee and all applicable sales taxes.
  
- m) 'Net sale proceeds' refers to the amount the buyer receives after Junkey's fee and all applicable sale taxes have been deducted from the final sale amount.
+ m) 'Net sale proceeds' refers to the amount the buyer receives after all fees have been deducted from the final sale amount.
  
  n) 'Offer deadline' refers to the deadline by which time an offer must be accepted by the recipient, or expires. If the offer is not accepted before the offer deadline, no sale agreement is concluded.
  
  o) 'Payment deadline' refers to the deadline by which time payment must have been made on an item, where sale has been agreed.
  
- q) 'Purchase funds' refers to the final sale amount funds which paid by the buyer.
+ q) 'Purchase funds' refers to the final sale amount funds paid by the buyer.
  
  r) 'Delivery deadline' refers to the deadline by which a seller is expected to have completed delivery. 
  
@@ -69,7 +69,7 @@ b) You are responsible for any taxes due in relation to items you buy or sell wh
 
 ## 6. Obligations Of Business Users
 
-a) If you are using the service as a business entity, you are agree that you will indicate this where given the opportunity to do so within the website. If you are VAT registered, you are obliged to provide your VAT number where encouraged to do so. If you are in any doubt as to whether you should register as a business or upload a VAT number, you should contact Junkey customer support from the account menu.
+a) If you are using the service as a business entity, you are agree that you will indicate this where given the opportunity to do so within the website. If you are VAT registered, you are obliged to provide your VAT number where encouraged to do so. If you are in any doubt as to whether you should register as a business or upload a VAT number, you should contact Junkey customer support via the account menu.
 
 b) If you indicate that you are using the service as a business, you warrant that you do so with binding authority on behalf of that business entity.
 
@@ -131,7 +131,7 @@ a) When listing an item, you have the option to mark the item with a 'Buy Now Pr
 
 b) When listing an item, it is your responsibility to make sure that the image and description submitted are accurate, and that you have adhered to the regulations laid out in the Sale Of Goods Act 1979.
 
-c) You agree that when uploading a Buy Now item, the price that you set is to be the final sale amount. This is the total that will be collected from the buyer and is inclusive of UK shipping costs that you may incur to fulfil delivery of the item to a UK buyer. It also includes Junkey's fee and all applicable sale taxes, as well as a small fee from Paypal for processing the transaction. The net sale proceeds you receive will have had these fees deducted. See section 19. on fees below for more information on applicable fees.
+c) You agree that when uploading a Buy Now item, the price that you set is to be the final sale amount. This is the total that will be collected from the buyer and is inclusive of UK shipping costs that you may incur to fulfill delivery of the item to a UK buyer. It also includes Junkey's fee and a small fee from Paypal for processing the transaction. The net sale proceeds you receive will have had these fees deducted. See section 19. on fees below for more information on applicable fees.
 
 d) You warrant that you understand that in order to receive payment for any item that you agree to sell, you will need a valid PayPal email address. Junkey will assume that the email address that you registered with is also your PayPal email address and will attempt to make payment to it following a successful trade. You should notify Junkey customer support before or immediately after accepting an offer should you need to arrange for payments to be made to an alternative email address.
 
@@ -183,7 +183,7 @@ c) On Buy Now items, successful payment constitutes acceptance of the seller's o
 
 d) Buyers are required to upload their name and a shipping address before an offer can be made if one has not already been stored on the site before.
 
-e) Offers are displayed to show the final sale amount that the buyer will pay, as well as the net sale proceeds that you will receive after fees. 
+e) Offers are displayed to show the final sale amount that the buyer will pay, as well as the net sale proceeds that the seller will receive after fees. 
 
 f) Upon accepting a valid offer, you understand that you are entering a legally binding agreement to sell the item for the agreed price. The agreed purchase price is inclusive of any shipping costs required to ship the item within the UK. It is the seller's responsibility to ascertain shipping costs before accepting an offer.
 
@@ -193,7 +193,6 @@ h) Upon acceptance, a 'trade block' is placed on an item once an offer has been 
 
 i) Upon acceptance of an offer, a payment expiry is also set, indicating a date by which payment must have been made to the seller. Failure to pay by this deadline is a breach of the sale agreement between you and the seller. It may also cause your Junkey account to be suspended or your Trust Points to be deducted. 
 
-j) You agree that even after offer acceptance, Junkey may at any point cancel a trade at its sole discretion. Where this is the case, and the buyer has already made payment, the purchase funds will be refunded.
 
 ## 15. Payment
 
@@ -201,9 +200,9 @@ a) Payment for an item must be made using PayPal, through the relevant pages in 
 
 b) Junkey reserves the right to require the buyer to provide proof of ID and a signed declaration before payment is allowed on larger transactions. Where Junkey requests such documents and they are not forthcoming, you agree that Junkey may cancel the trade, in which case, the sales agreement will be cancelled.
 
-d) If the seller's email address is determined to be ineligible to receive funds at the point the buyer attempts to make payment, Junkey will attempt to resolve but reserve the right to cancel the payment. If Junkey are unable to resolve the issue, the trade will be cancelled.
+c) If the seller's email address is determined to be ineligible to receive funds at the point the buyer attempts to make payment, Junkey will attempt to resolve but reserve the right to cancel the payment. If Junkey are unable to resolve the issue, the trade will be cancelled.
 
-e) Once payment has been made, a delivery deadline of 14 days is set, by which time the item must reach the buyer.
+d) Once payment has been made, a delivery deadline of 14 days is set, by which time the item must reach the buyer.
 
 
 ## 16. Shipping
@@ -212,20 +211,29 @@ a) The shipping of an item and any associated cost is the responsibility of the 
 
 b) Shipping costs are included in any Buy Now price set by a seller, or in any offer made by a buyer to an item owner.
 
-c) 10.2 Items must be sent by a recorded delivery type so that they can be tracked.
+c) Items must be sent by a recorded delivery type so that they can be tracked.
 
-d) 10.3 Sellers are encouraged to upload the shipping tracking code for their arranged delivery to the site so that Junkey can report on the successful delivery automatically.
+d) Sellers are encouraged to upload the shipping tracking code for their arranged delivery to the Trade within the website so that Junkey can report on the successful delivery automatically.
 
-e) 10.4 If no delivery is confirmed before the delivery deadline from an uploaded tracking code or from the buyer indicating so, the buyer should contact both Junkey and the buyer. Junkey will attempt to mediate, and failing that, the buyer should contact Paypal under their Buyer Protection policy. 
+e) If no delivery is confirmed before the delivery deadline from an uploaded tracking code or from the buyer indicating so, the buyer should contact both Junkey and the seller. Junkey will attempt to mediate, and failing that, the buyer is advised to contact Paypal under their Buyer Protection policy. 
 
-f) In the event that buyer and seller agree that delivery should take place in person without third party tracking used, the seller should be aware that Junkey may have no way of ascertaining that delivery happened. Sellers should be aware that Paypal's Buyer/Seller Protection does not apply for collections.
+f) In the event that buyer and seller agree that delivery should take place in person without third party tracking used, the seller should be aware that Junkey may have no way of ascertaining that delivery happened. Users should also be aware that Paypal's Buyer/Seller Protection does not apply for collections.
 
 
-## 18. Returns And Refunds
+## 18. Disputes
 
-Business sellers are expected to adhere to the applicable law governing the sale of goods online and returns.
+a) Junkey will attempt to mediate any dispute between users.
 
-## 19. Fees
+b) Where mediation fails, users are advised to contact Paypal regarding disputed payments.
+
+
+
+## 19. Returns And Refunds
+
+a) Business sellers are expected to adhere to the applicable law governing the sale of goods online and returns.
+
+
+## 20. Fees
 
 a) Junkey retains a commission on successful payments, amounting to up to 12% of the transaction value. 
 
@@ -235,31 +243,31 @@ c) Both the Junkey commission and the Paypal fee are deducted from the final sal
 
 d) Junkey's commission fee is non-refundable unless otherwise stated.
 
-## 20. Seller Payment
+## 21. Seller Payment
 
 a) Payment to the seller will be made as a PayPal payment, to the seller's registered email address or an alternative they have designated as their PayPal email address.
 
 b) It is the seller's responsibility to inform Junkey customer care at the point that an offer is accepted if they require a PayPal email address to be stored which is different to the one they registered for the service with.
 
-## 21. Trust Points
+## 22. Trust Points
 
 a) Trust Points are a trust scoring system operated by Junkey. They indicate a trust score of each user based on factors related to a user's history in using the site. Junkey reserves the right to increase and decrease Trust Points at its sole discretion.
 
-## 22. Account Statement
+## 23. Account Statement
 
 a) An account statement listing your previous trades and payments is available at request from Junkey customer care.
 
-## 23. Item Ownership
+## 24. Item Ownership
 
 a) Following a successful trade, the ownership of an item within the service will be transferred from seller to buyer.
 
 b) Junkey may, at its sole discretion, allow for items to be transferred between users where no trade has been conducted on the site, where both users request such.
 
-## 24. Governing Law And Jurisdiction
+## 25. Governing Law And Jurisdiction
 
 a) These terms shall be governed by English law and the parties agree to submit to the exclusive jurisdiction of the English courts.
 
-## 25. General Terms
+## 26. General Terms
 
 a) Junkey reserves the right to alter these terms at any time and will communicate such changes electronically to you.
 
@@ -269,10 +277,10 @@ c) These terms will remain the entirety of the agreement governing your use of t
 
 d) No waiver of a term shall constitute an on-going waiver of that or any other terms. Junkey's failure to assert any right under this agreement will not constitute a waiver of such a right or the entire agreement.
 
-## 26. Contact Details
+## 27. Contact Details
 
 a) Customer support contact details are available form within the logged-in website menu.
 
-## 27. Privacy
+## 28. Privacy
 
 Please see the [Privacy Policy](http://junkey.com/privacy).
