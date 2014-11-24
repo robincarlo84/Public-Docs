@@ -1,7 +1,7 @@
 # Terms of Service
 
 
-####Version 0.1.1 last updated 31 October 2014
+####Version 0.2.1 last updated 24 November 2014
 
 (maintained at <https://github.com/Junkey/Public-Docs>)
 
@@ -197,17 +197,14 @@ j) You agree that even after offer acceptance, Junkey may at any point cancel a 
 
 ## 15. Payment
 
-a) Payment for an item must be made using PayPal, through the relevant page in the site.
+a) Payment for an item must be made using PayPal, through the relevant pages in the website.
 
-b) For security reasons, payment is held by Junkey until the item has been delivered and the inspection period has passed without buyer raising issue.
-
-c) Junkey reserves the right to require the buyer to provide proof of ID and a signed declaration confirming they made the purchase. This may delay the trade, however Junkey will keep both users informed throughout the process. In circumstances where additional documents have been requested but the buyer does not provide them within a reasonable timeframe, Junkey reserves the right to cancel the trade and to refund the purchase back to the buyer's PayPal account. Any ensuing dispute relating to the agreement between the buyer and seller is a private matter between the two users.
+b) Junkey reserves the right to require the buyer to provide proof of ID and a signed declaration before payment is allowed on larger transactions. Where Junkey requests such documents and they are not forthcoming, you agree that Junkey may cancel the trade, in which case, the sales agreement will be cancelled.
 
 d) If the seller's email address is determined to be ineligible to receive funds at the point the buyer attempts to make payment, Junkey will attempt to resolve but reserve the right to cancel the payment. If Junkey are unable to resolve the issue, the trade will be cancelled.
 
-e) Once payment has been made, a delivery deadline of 14 days is set, by which time the item must have reach the buyer. Failure to deliver the item before the delivery deadline can lead to the trade being cancelled and the purchase funds being refunded back to the buyer.
+e) Once payment has been made, a delivery deadline of 14 days is set, by which time the item must reach the buyer.
 
-f) In the unlikely event that you make payment on a Buy Now item immediately after another buyer has completed purchase of the same item, your purchase payment will be refunded. In this scenario, no binding agreement is created between you and the seller.
 
 ## 16. Shipping
 
@@ -219,39 +216,30 @@ c) 10.2 Items must be sent by a recorded delivery type so that they can be track
 
 d) 10.3 Sellers are encouraged to upload the shipping tracking code for their arranged delivery to the site so that Junkey can report on the successful delivery automatically.
 
-e) 10.4 If no delivery is confirmed before the delivery deadline from an uploaded tracking code or from the buyer indicating so, Junkey will attempt to contact the seller to ascertain the cause of the delay. Junkey reserves the right to cancel the trade at this point and refund the purchase funds to the buyer. In the event that the seller has made efforts to deliver the item, and the delivery is on-going although past the delivery deadline, Junkey may extend the deadline if both buyer and seller agree to this.
+e) 10.4 If no delivery is confirmed before the delivery deadline from an uploaded tracking code or from the buyer indicating so, the buyer should contact both Junkey and the buyer. Junkey will attempt to mediate, and failing that, the buyer should contact Paypal under their Buyer Protection policy. 
 
-f) In the event that buyer and seller agree that delivery should take place in person without third party tracking used, the seller should be aware that Junkey may have no way of ascertaining that delivery happened. Should the buyer contest such a delivery, Junkey may have no option but to refund the purchase funds to the buyer.
+f) In the event that buyer and seller agree that delivery should take place in person without third party tracking used, the seller should be aware that Junkey may have no way of ascertaining that delivery happened. Sellers should be aware that Paypal's Buyer/Seller Protection does not apply for collections.
 
-g) Should the item be lost during shipping, Junkey will be forced to refund the purchase funds to the buyer. It is the seller's responsibility to purchase shipping insurance should they wish to mitigate the risk of a lost item.
-
-h) If the buyer is not present when delivery is attempted and ultimately the item is returned to the seller, Junkey may refund the purchase funds to the buyer after the delivery expiry is exceeded. Junkey is not responsible for the delivery fee incurred by the seller in relation to the failed delivery, nor for assisting in any resulting dispute between buyer and seller. Where delivery fails due to the buyer not being present, Junkey reserves the right to lower the buyer's Trust Points.
-
-## 17. Inspection Period
-
-a) Once delivery has been confirmed, an inspection period of 48 hours begins. This is the period of time in which the buyer may inspect the item and may contest the state or accuracy of the item. If the buyer does not contest the state of the item before the end of the inspection period, the trade will be completed and the seller's payment will be released to them.
-
-b) If the buyer informs Junkey that they wish to contest the item state during the inspection period, the buyer will be required to ship the item back to the seller by a recorded delivery type. Once delivery has been confirmed, Junkey will refund the purchase funds back to the buyer.
-
-c) 11.3 In the event of an item being returned by the buyer, the seller will be obliged to provide a return delivery address. Should the seller fail to do so in a reasonable time, Junkey will refund the buyer's purchase funds before the item has been returned to the seller.
 
 ## 18. Returns And Refunds
 
-a) The cost of return shipping will be covered by the buyer, unless otherwise stipulated by the seller at point of sale or unless otherwise stipulated by applicable law. The seller is expected to adhere to relevant law governing the return of goods not as described, or faulty.
+Business sellers are expected to adhere to the applicable law governing the sale of goods online and returns.
 
 ## 19. Fees
 
-a) Junkey retains a commission on successful payments, amounting to 20% of the transaction value. Sellers receive the total paid amount less Junkey's 20% fee.
+a) Junkey retains a commission on successful payments, amounting to up to 12% of the transaction value. 
 
-b) In the event of a refunded payment, no fee is taken, and the buyer receives a full refund on the amount debited.
+b) Paypal also charges a fee for processing the transaction. This can be up to 3.4% of the total transaction value plus £0.20. 
+
+c) Both the Junkey commission and the Paypal fee are deducted from the final sale amount that the buyer pays. The final amount that the seller receives, the Net Sales Proceeds, is net of all fees. This amount is displayed to the seller before they accept an offer, or at the point they list an item as 'Buy Now'.
+
+d) Junkey's commission fee is non-refundable unless otherwise stated.
 
 ## 20. Seller Payment
 
-a) Once the inspection period expires and without the item state being contested by the buyer, Junkey will release the purchase funds to the seller, less Junkey's fee.
+a) Payment to the seller will be made as a PayPal payment, to the seller's registered email address or an alternative they have designated as their PayPal email address.
 
-b) Payment to the seller will be made as a PayPal payment, to the seller's registered email address or an alternative they have designated as their PayPal email address.
-
-c) It is the seller's responsibility to inform Junkey customer care at the point that an offer is accepted if they require a PayPal email address to be stored which is different to the one they registered for the service with.
+b) It is the seller's responsibility to inform Junkey customer care at the point that an offer is accepted if they require a PayPal email address to be stored which is different to the one they registered for the service with.
 
 ## 21. Trust Points
 
