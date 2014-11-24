@@ -29,7 +29,7 @@
 
  i) 'Trade block' refers to a block that Junkey places on items which are in the process of an active trade.
 
- j) 'Make offer item' refers to an item for which no 'buy now' price has been set, and which are subject to a buyer-initiated offer.
+ j) 'Make offer item' refers to an item for which no 'buy now' price has been set, and which is subject to a buyer-initiated offer.
 
  k) 'Buy now item' refers to an item which have been designated as immediately purchasable at a set price.
  
