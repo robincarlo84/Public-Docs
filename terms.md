@@ -29,23 +29,21 @@
 
  i) 'Trade block' refers to a block that Junkey places on items which are in the process of an active trade.
 
- j) 'Inspection period' refers to the timeframe in which a buyer is able to inspect the item they have bought, following successful delivery. During this period a buyer is able to contest the likeness or condition of the item.
+ j) 'Make offer item' refers to an item for which no 'buy now' price has been set, and which are subject to a buyer-initiated offer.
 
- k) 'Make offer item' refers to an item for which no 'buy now' price has been set, and which are subject to a buyer-initiated offer.
-
- l) 'Buy now item' refers to an item which have been designated as immediately purchasable at a set price.
+ k) 'Buy now item' refers to an item which have been designated as immediately purchasable at a set price.
  
- m) 'Final sale amount' refers to the total amount paid for an item. It is inclusive of Junkey's fee and all applicable sales taxes.
+ l) 'Final sale amount' refers to the total amount paid for an item. It is inclusive of Junkey's fee and all applicable sales taxes.
  
- n) 'Net sale proceeds' refers to the amount the buyer receives after Junkey's fee and all applicable sale taxes have been deducted from the final sale amount.
+ m) 'Net sale proceeds' refers to the amount the buyer receives after Junkey's fee and all applicable sale taxes have been deducted from the final sale amount.
  
- o) 'Offer deadline' refers to the deadline by which time an offer must be accepted by the recipient, or expires. If the offer is not accepted before the offer deadline, no sale agreement is concluded.
+ n) 'Offer deadline' refers to the deadline by which time an offer must be accepted by the recipient, or expires. If the offer is not accepted before the offer deadline, no sale agreement is concluded.
  
- p) 'Payment deadline' refers to the deadline by which time payment must have been made on an item, where sale has been agreed.
+ o) 'Payment deadline' refers to the deadline by which time payment must have been made on an item, where sale has been agreed.
  
  q) 'Purchase funds' refers to the final sale amount funds which paid by the buyer.
  
- r) 'Delivery deadline' refers to the deadline by which a seller must have completed delivery. Failure to deliver within this timeframe can annuls the purchase agreement and cause Junkey to refund the purchase funds to the buyer.
+ r) 'Delivery deadline' refers to the deadline by which a seller is expected to have completed delivery. 
  
 ## 3. The Service
 
@@ -65,13 +63,13 @@ c) Only users resident in the United Kingdom are permitted to buy and sell items
 
 ## 5. Your Obligations
 
-a) You agree to comply with all laws regarding your usage of the service.
+a) You agree to comply with all applicable laws regarding your usage of the service.
 
 b) You are responsible for any taxes due in relation to items you buy or sell while using the service.
 
 ## 6. Obligations Of Business Users
 
-a) If you are using the service as a business entity, you are agree that you will indicate this where given the opportunity to do so within the site. If you are VAT registered, you are obliged to provide your VAT number where encouraged to do so. If you are in any doubt as to whether you should register as a business or upload a VAT number, you should contact Junkey customer support from the account menu.
+a) If you are using the service as a business entity, you are agree that you will indicate this where given the opportunity to do so within the website. If you are VAT registered, you are obliged to provide your VAT number where encouraged to do so. If you are in any doubt as to whether you should register as a business or upload a VAT number, you should contact Junkey customer support from the account menu.
 
 b) If you indicate that you are using the service as a business, you warrant that you do so with binding authority on behalf of that business entity.
 
@@ -85,7 +83,7 @@ i) The item belongs to you and you are authorised to grant Junkey rights contain
 
 ii) The details listed in relation to the item are accurate, including the item image, title, description and condition.
 
-iii) The details listed in relation to the item contain no personal details relating to another person, nor any illegal content
+iii) The details listed in relation to the item contain no personal details relating to another person, nor any illegal content.
 
 iv) No licence is required from any third party in order for Junkey to make use of the item details. In addition that Junkey's use of the item details does not infringe on any third party's intellectual property rights.
 
@@ -133,7 +131,7 @@ a) When listing an item, you have the option to mark the item with a 'Buy Now Pr
 
 b) When listing an item, it is your responsibility to make sure that the image and description submitted are accurate, and that you have adhered to the regulations laid out in the Sale Of Goods Act 1979.
 
-c) You agree that when uploading a Buy Now item, the price that you set is to be the final sale amount. This is the total that will be collected from the buyer and is inclusive of UK shipping costs that you may incur to fulfil delivery of the item to a UK buyer. It also includes Junkey's fee and all applicable sale taxes, which are deducted from the net sale proceeds you will receive.
+c) You agree that when uploading a Buy Now item, the price that you set is to be the final sale amount. This is the total that will be collected from the buyer and is inclusive of UK shipping costs that you may incur to fulfil delivery of the item to a UK buyer. It also includes Junkey's fee and all applicable sale taxes, as well as a small fee from Paypal for processing the transaction. The net sale proceeds you receive will have had these fees deducted. See section 19. on fees below for more information on applicable fees.
 
 d) You warrant that you understand that in order to receive payment for any item that you agree to sell, you will need a valid PayPal email address. Junkey will assume that the email address that you registered with is also your PayPal email address and will attempt to make payment to it following a successful trade. You should notify Junkey customer support before or immediately after accepting an offer should you need to arrange for payments to be made to an alternative email address.
 
@@ -185,15 +183,15 @@ c) On Buy Now items, successful payment constitutes acceptance of the seller's o
 
 d) Buyers are required to upload their name and a shipping address before an offer can be made if one has not already been stored on the site before.
 
-e) Offers are displayed to show the final sale amount that the buyer will pay, and the net sale proceeds that you will receive after Junkey's fees and applicable sale taxes. The cost of any shipping that you may need to incur is included.
+e) Offers are displayed to show the final sale amount that the buyer will pay, as well as the net sale proceeds that you will receive after fees. 
 
 f) Upon accepting a valid offer, you understand that you are entering a legally binding agreement to sell the item for the agreed price. The agreed purchase price is inclusive of any shipping costs required to ship the item within the UK. It is the seller's responsibility to ascertain shipping costs before accepting an offer.
 
-g) Should a seller refuse to honour a sale agreement, any ensuing dispute is between buyer and seller, and does not involve Junkey. However, Junkey may cancel the trade status within the website to reflect the status of the trade. Reneging on the agreed sale of an item may lead to a reduction in a seller's Trust Points.
+g) Should a buyer or seller refuse to honour a sale agreement, any ensuing dispute is between buyer and seller, and does not involve Junkey. However, Junkey will attempt to mediate and may ultimately cancel the trade status within the website to reflect the status of the trade. Reneging on the agreed sale of an item may lead to a reduction in a seller's Trust Points.
 
-h) Upon acceptance a 'trade block' is placed on an item once an offer has been accepted. This means the item cannot receive offers until this trade is complete.
+h) Upon acceptance, a 'trade block' is placed on an item once an offer has been accepted. This means the item cannot receive offers until this trade is complete.
 
-i) Upon acceptance of an offer, a payment expiry is also set, indicating a date by which payment must have been made to the seller. Failure to pay by this deadline is a breach of the sale agreement between you and the seller. It may also cause your Junkey account to be suspended or your Trust Points to be deducted. Where payment does not happen before the payment expiry Junkey will endeavour to resolve the situation between the users. If this is unsuccessful, Junkey will refund the purchase funds to the buyer and remove the trade block on the item.
+i) Upon acceptance of an offer, a payment expiry is also set, indicating a date by which payment must have been made to the seller. Failure to pay by this deadline is a breach of the sale agreement between you and the seller. It may also cause your Junkey account to be suspended or your Trust Points to be deducted. 
 
 j) You agree that even after offer acceptance, Junkey may at any point cancel a trade at its sole discretion. Where this is the case, and the buyer has already made payment, the purchase funds will be refunded.
 
