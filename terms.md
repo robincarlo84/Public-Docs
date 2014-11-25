@@ -193,6 +193,7 @@ h) Upon acceptance, a 'trade block' is placed on an item once an offer has been 
 
 i) Upon acceptance of an offer, a payment expiry is also set, indicating a date by which payment must have been made to the seller. Failure to pay by this deadline is a breach of the sale agreement between you and the seller. It may also cause your Junkey account to be suspended or your Trust Points to be deducted. 
 
+j) You agree that you will not accept an offer for an item that is not in your possession.
 
 ## 15. Payment
 
