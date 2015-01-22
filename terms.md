@@ -11,7 +11,7 @@
 
 ## 2.Definitions
 
- a) 'Website' refers to the online web service provided by Rareburg at www.junkey.com or any other designated website, mobile website or mobile app.
+ a) 'Website' refers to the online web service provided by Rareburg at www.rareburg.com or any other designated website, mobile website or mobile app.
 
  b) 'Service' refers to the website and its features and the customer support services Rareburg provides to users.
  
