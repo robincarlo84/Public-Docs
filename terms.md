@@ -1,7 +1,7 @@
 # Terms of Service
 
 
-####Version 0.2.1 last updated 24 November 2014
+####Version 0.2.2 last updated 22 January 2015
 
 (maintained at <https://github.com/Rareburg/Public-Docs>)
 
