@@ -2,7 +2,7 @@
 
 ####Version 0.1.1 Last Updated 4 Nov 2014
 
-(maintained at <https://github.com/Junkey/Public-Docs>)
+(maintained at <https://github.com/Rareburg/Public-Docs>)
 
 ## 1. Scope
 
@@ -14,7 +14,7 @@ c) By registering for the service you accept the Privacy Policy and the outlined
 
 ## 2. Data Processor And Controller
 
-a) For the purposes of the Data Protection Act 1998, we confirm that the data processor and data controller are Junkey Ltd, a company registered under the laws of England, whose registered office is Cameo House, 11 Bear Street, WC2H 7AS.
+a) For the purposes of the Data Protection Act 1998, we confirm that the data processor and data controller are Rareburg Ltd, a company registered under the laws of England, whose registered office is Cameo House, 11 Bear Street, WC2H 7AS.
 
 b) We may change the Privacy Policy from time to time, and when doing so, will notify you be email and direct you to the relevant page in the website to view the updated policy.
 
@@ -90,7 +90,7 @@ iii) Customisation Cookie: These allow for customisation of the site according t
 
 a) Certain details that you transmit when creating your profile on the service are publicly visible, such as your username, avatar image, profile description, and country location. Your real name, email address and shipping address are not disclosed to other users, with the exception of when required to complete or refund a trade.
 
-b) The service offers the facility for users to send messages to each other, however personal contact details are not divulged. Junkey takes no responsibility for the content of any messages or comments on items that any user posts. However, Junkey offers the facility to block contact from specific users.
+b) The service offers the facility for users to send messages to each other, however personal contact details are not divulged. Rareburg takes no responsibility for the content of any messages or comments on items that any user posts. However, Rareburg offers the facility to block contact from specific users.
 
 ## 9. Marketing Communications
 
@@ -100,11 +100,11 @@ b) We do not sell or rent your details to third parties unless you expressly aut
 
 ## 10. Social Sharing
 
-a) Junkey offers the facility to share items with your friends by social media or email. We will only post what you have requested to share.
+a) Rareburg offers the facility to share items with your friends by social media or email. We will only post what you have requested to share.
 
 ## 11. Service Messages
 
-a) Certain messages from Junkey are service-related and are required in the operation of the service. For this reason there is no opt-out possible on such communications other than canceling your account.
+a) Certain messages from Rareburg are service-related and are required in the operation of the service. For this reason there is no opt-out possible on such communications other than canceling your account.
 
 ## 12. Unsubscribing
 
@@ -120,12 +120,12 @@ a) Following a request in writing from you, we will close your account and make 
 
 ## 15. Security
 
-a) Your Junkey account is protected by a password, which you set. It is important that you choose your password carefully and do not share it with any third party. You should also log out of the website each time you have finished using it.
+a) Your Rareburg account is protected by a password, which you set. It is important that you choose your password carefully and do not share it with any third party. You should also log out of the website each time you have finished using it.
 
-Junkey uses secure socket technology for encryption, however no method of transmission over the internet is 100% secure. Junkey endeavours to maintain the highest 
+Rareburg uses secure socket technology for encryption, however no method of transmission over the internet is 100% secure. Rareburg endeavours to maintain the highest 
 
 b) level of security in relation to your usage of the service and your data.
 
 ## 16. Data retention
 
-a) Junkey will retain your personal information for as long as necessary to provide you the service. You may inform us of any changes or requests in relation to your information, and we will act in accordance with local data protection law.
+a) Rareburg will retain your personal information for as long as necessary to provide you the service. You may inform us of any changes or requests in relation to your information, and we will act in accordance with local data protection law.
